@@ -25,7 +25,7 @@ Para las tareas usaremos un software de _control de versiones_: [git](https://gi
 - Tareas (casi) todas las semanas. Pueden eliminar **una** tarea.
 - No hay controles ni exámen.
 - La nota final es el promedio simple de las tareas.
-- Si completan 85%+ de asistencia a cátedra podrán eliminar **dos** tareas.
+- Si completan 80%+ de asistencia a cátedra podrán eliminar **dos** tareas.
 
 ### Evaluación de las tareas.
 
