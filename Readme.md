@@ -35,13 +35,13 @@ Para las tareas usaremos un software de _control de versiones_: [git](https://gi
 
 * Usaremos un software de detección de copias tanto para los códigos como para los informes.
 
-* Quienes sean sorprendidos copiando pueden dar el curso por reprobado. Se evaluarán acciones sumarias dependiendo del caso. 
+* Quienes sean sorprendidos copiando pueden dar el curso por reprobado. Se evaluarán acciones sumarias dependiendo del caso.
     * Serán notificados **después del elimina**.
 
 Los ítems a evaluar en las tareas son aproximadamente los siguientes:
 
-- 35% resolución correcta del problema presentado.
-- 50% calidad del reporte entregado: demuestra comprensión del problema y su solución, claridad del lenguage, calidad de las figuras utilizadas.
+- 40% resolución correcta del problema presentado.
+- 45% calidad del reporte entregado: demuestra comprensión del problema y su solución, claridad del lenguage, calidad de las figuras utilizadas.
 - 15% diseño del código: claridad, modularidad, respeto a las pautas sintácticas. Las reglas en este último punto irán cambiando conforme aprendamos sobre _buenas prácticas_.
 
 Este esquema irá cambiando conforme avance el curso.
