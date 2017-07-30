@@ -46,3 +46,8 @@ Los ítems a evaluar en las tareas son aproximadamente los siguientes:
 
 Este esquema irá cambiando conforme avance el curso.
 
+## Bibliografía
+
+- Numerical Recipes. Disponible [gratis](http://numerical.recipes).
+- Apuntes del Prof. Patricio Cordero disponibles en u-cursos, material docente
+
