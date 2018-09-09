@@ -1,4 +1,4 @@
-# FI3104-1: Métodos Numéricos para la Ciencia e Ingeniería
+# FI3104-1: Métodos Numéricos para la Ciencia e Ingeniería 2018B
 
 Prof. Valentino González</br>
 valentino@das.uchile.cl</br>
@@ -15,28 +15,29 @@ Además, el curso busca incentivar el desarrollo de _buenas prácticas_ en el us
 - Re-utilización de software. Utilizar software de acceso público cuando se pueda, pero también diseñar software reutilizable en el futuro.
 - Prácticas modernas de testing y debugging (si tenemos tiempo).
 
-El lenguage de programación oficial del curso es [Python 2](http://www.python.org). En particular, vamos a utilizar la distribución [Anaconda Python](https://store.continuum.io/cshop/anaconda/) para uniformar las versiones.
+El lenguage de programación oficial del curso es [Python 3.6](http://www.python.org). En particular, vamos a utilizar la distribución [Anaconda Python](https://www.anaconda.com/download) para uniformar las versiones.
 
 Para las tareas usaremos un software de _control de versiones_: [git](https://git-scm.com/), y la plataforma [github](http://www.github.com).
 
 
 ### Trabajo y Nota del curso.
 
-- Tareas (casi) todas las semanas, tendremos un total de 11 tareas. Pueden eliminar **una** tarea.
+- Tareas (casi) todas las semanas, tendremos un total de entre 11 y 13 tareas. Pueden eliminar **una** tarea.
 - No hay controles ni exámen.
-- La nota final es el promedio simple de las tareas.
+- La nota final es el promedio simple de las notas de tarea.
 - Si completan 80%+ de asistencia a cátedra podrán eliminar **dos** tareas.
+    - **Pero no vengan a trabajar en sus otros cursos o en las tareas o en cualquier otra cosa que no sea poner atención y participar de la clase.**
 
 ### Evaluación de las tareas.
 
-* Las tareas corresponden a problemas prácticos a resolver utilizando los métodos numericos aprendidos en el curso. La tarea entregada incluye un informe y los códigos usados para resolver el problema.
+* Las tareas corresponden a problemas prácticos a resolver utilizando los métodos numéricos aprendidos en el curso. La tarea entregada incluye un informe y los códigos usados para resolver el problema.
 
 * Las tareas son **individuales**. Discusiones en grupo y colaboración están permitidas pero el resultado final del trabajo es personal.
 
 * Usaremos un software de detección de copias tanto para los códigos como para los informes.
 
 * Quienes sean sorprendidos copiando pueden dar el curso por reprobado. Se evaluarán acciones sumarias dependiendo del caso.
-    * Serán notificados **después del elimina**.
+    * Serán notificados **después del último elimina**.
 
 Los ítems a evaluar en las tareas son aproximadamente los siguientes:
 
@@ -48,6 +49,6 @@ Este esquema irá cambiando conforme avance el curso.
 
 ## Bibliografía
 
-- Numerical Recipes. Disponible [gratis](http://numerical.recipes).
-- Apuntes del Prof. Patricio Cordero disponibles en u-cursos, material docente
+- Numerical Recipes. Disponible gratis en [flash](http://apps.nrbook.com/c/index.html) o en [pdf](http://www.nrbook.com/a/bookcpdf.html) (requiere on [Acrobat Reader](https://get.adobe.com/reader) y el plugin [FileOpen](https://plugin.fileopen.com)).
+- Apuntes del Prof. Patricio Cordero disponibles en u-cursos, material docente.
 
